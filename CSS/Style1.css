@@ -1,0 +1,21 @@
+nav{
+	width: auto;
+	background-color:#f44242;
+	color:#f44242;
+	height: 45px;
+	font-size: 35px;
+	font-family: calibri;
+}
+article fieldset{
+	font-family: calibri;
+	font-size: 15px;
+	float: left;
+	margin-top: 120px;
+	margin-left: 400px;
+}
+footer{
+    color: #a1a7b3;
+    font-size: 13px;
+    width: auto;
+    margin-top: 1000px;
+}
