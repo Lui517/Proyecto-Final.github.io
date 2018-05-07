@@ -4,29 +4,33 @@ nav{
 	color:#f44242;
 	height: 45px;
 	font-size: 35px;
-	font-family: calibri;
+	font-family: 'Walter Turncoat', cursive;
 }
 article fieldset{
 	font-family: calibri;
 	font-size: 15px;
 	float: left;
 	margin-top: 120px;
-	margin-left: 400px;
 }
 footer{
     color:#f44242;
-    font-size: 13px;
+    font-size: 15px;
     width: auto;
     margin-top: 100%;
     background-color:#a1a7b3;
-    height: 40px;
+    height: 100px;
+    text-align: center;
 }
 iframe{
 	float: left;
 	width: 100%;
 	margin-top:100px;
-	height:500px;
+	height:600px;
 }
-.form2{
-	clear: left;
+.form1{
+	font-family: calibri;
+	font-size: 15px;
+	float: left;
+	margin-top: 120px;
+	margin-left: 400px;
 }
