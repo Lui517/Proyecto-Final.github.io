@@ -1,5 +1,5 @@
 nav{
-	width: auto;
+	width: 100%;
 	background-color:#f44242;
 	color:#f44242;
 	height: 45px;
@@ -14,10 +14,19 @@ article fieldset{
 	margin-left: 400px;
 }
 footer{
-    color: #a1a7b3;
+    color:#f44242;
     font-size: 13px;
     width: auto;
-    margin-top: 1000px;
+    margin-top: 100%;
     background-color:#a1a7b3;
-    height: 5%;
+    height: 40px;
+}
+iframe{
+	float: left;
+	width: 100%;
+	margin-top:100px;
+	height:500px;
+}
+.form2{
+	clear: left;
 }
