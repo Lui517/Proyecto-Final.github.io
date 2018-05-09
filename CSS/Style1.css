@@ -1,3 +1,7 @@
+* {
+margin:0px;
+padding:0px;
+}
 nav{
 	width: 100%;
 	background-color:#f44242;
@@ -30,6 +34,7 @@ iframe{
 	width: 100%;
 	margin-top:100px;
 	height:600px;
+	border: none;
 }
 .form1{
 	font-family: calibri;
@@ -37,4 +42,41 @@ iframe{
 	float: left;
 	margin-top: 120px;
 	margin-left: 400px;
+}
+#header {
+width:100%;
+font-family:Arial, Helvetica, sans-serif;
+}
+ul, ol {
+list-style:none;
+}
+.nav {
+width:100%; /*Le establecemos un ancho*/
+margin:0 auto; /*Centramos automaticamente*/
+}
+.nav > li {
+float:right;
+margin-top:40px;
+}
+.nav li a {
+color:red;
+text-decoration:none;
+padding:9px 12px;
+display:block;
+}
+.nav li ul {
+display:none; /*para que no salgan los desplegables*/
+position:absolute; /*cuando pasas el ratón,se extiende el seleccionado*/
+min-width:140px;
+float:left;
+}
+.nav li:hover > ul {
+display:block;/*cuando pasas el ratón por encima se extiende hacia la derecha*/
+}
+.nav li ul li {
+position:relative;/*para que no se despliegen todos en el mismo sitio*/
+}
+.nav li ul li ul {
+right:140px;
+top:0px;
 }
