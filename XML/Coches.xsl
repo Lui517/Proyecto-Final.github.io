@@ -11,7 +11,7 @@
 
 <xsl:for-each select="Coche">
 <div class="Coche" style="float: left; width: 300px;">
-  <div style="width: 700px; float: left;">
+  <div style="float: left;">
      <xsl:element name="img">
        <xsl:attribute name="src">
          <xsl:value-of select="imagen/@ruta"/>
