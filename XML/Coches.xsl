@@ -23,7 +23,6 @@
     <li><xsl:value-of select="Cilindrada"/></li>
     <li><xsl:value-of select="Admision"/></li>
   </ul>
-
 </div>
 </xsl:for-each>
 
