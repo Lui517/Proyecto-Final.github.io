@@ -42,6 +42,7 @@ iframe{
 	float: left;
 	margin-top: 120px;
 	margin-left: 400px;
+	border-spacing: 40px;
 }
 #header {
 width:100%;
