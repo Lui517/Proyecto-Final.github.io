@@ -8,7 +8,7 @@
 	  <Admision>Gasolina 0.9 TCe</Admision>
   </Coche>
   <Coche numero="2">
-	  <imagen ruta="../Imagenes/scirocco2.jpg"/>
+	  <imagen ruta="../Imagenes/scirocco1.jpg"/>
 	  <Nombre>Volkswagen Scirocco</Nombre>
 	  <Cilindrada>180CV</Cilindrada>
 	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
