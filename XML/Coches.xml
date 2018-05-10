@@ -2,9 +2,15 @@
 <?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
 <Nuestros_Coches>
   <Coche numero="1">
-  <imagen ruta="../Imagenes/clio1.jpg"/>
-  <Nombre>Renault Clio</Nombre>
-  <Cilindrada>90CV</Cilindrada>
-  <Admision>Gasolina 0.9 TCe</Admision>
+	  <imagen ruta="../Imagenes/clio1.jpg"/>
+	  <Nombre>Renault Clio</Nombre>
+	  <Cilindrada>90CV</Cilindrada>
+	  <Admision>Gasolina 0.9 TCe</Admision>
+  </Coche>
+  <Coche numero="2">
+	  <imagen ruta="../Imagenes/scirocco2.jpg"/>
+	  <Nombre>Volkswagen Scirocco</Nombre>
+	  <Cilindrada>180CV</Cilindrada>
+	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
   </Coche>
 </Nuestros_Coches>
