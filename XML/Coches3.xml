@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
+<Nuestros_Coches>
+  <Coche numero="1">
+	  <imagen ruta="../Imagenes/clio1.jpg"/>
+	  <Nombre>Renault Clio</Nombre>
+	  <Cilindrada>90CV</Cilindrada>
+	  <Admision>Gasolina 0.9 TCe</Admision>
+  </Coche>
+  <Coche numero="2">
+	  <imagen ruta="../Imagenes/Scirocco2.jpeg"/>
+	  <Nombre>Volkswagen Scirocco</Nombre>
+	  <Cilindrada>180CV</Cilindrada>
+	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
+  </Coche>
+  <Coche numero="3">
+	  <imagen ruta="../Imagenes/KA 1.jpeg"/>
+	  <Nombre>Ford KA+1</Nombre>
+	  <Cilindrada>70CV</Cilindrada>
+	  <Admision>Diesel 1.19 Ti-VCT</Admision>
+  </Coche>
+  <Coche numero="4">
+	  <imagen ruta="../Imagenes/passat1.jpeg"/>
+	  <Nombre>Volkswagen Passat</Nombre>
+	  <Cilindrada>180CV</Cilindrada>
+	  <Admision>Diesel 2.0 TSI</Admision>
+  </Coche>
+  <Coche numero="5">
+	  <imagen ruta="../Imagenes/scenic2.jpeg"/>
+	  <Nombre>Renault Scenic</Nombre>
+	  <Cilindrada>110CV</Cilindrada>
+	  <Admision>Diesel 1.5 dCI</Admision>
+  </Coche>
+</Nuestros_Coches>

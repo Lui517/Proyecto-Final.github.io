@@ -5,6 +5,14 @@
 <html>
 <head>
 <title>Coches</title>
+<link href="https://fonts.googleapis.com/css?family=Walter+Turncoat" rel="stylesheet">
+<style>
+  h1{
+    text-align:center;
+    color:#f44242;
+    font-family: 'Walter Turncoat', cursive;
+  }
+</style>
 </head>
 <body>
 <h1>Nuestros Coches</h1>

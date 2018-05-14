@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
+<Nuestros_Coches>
+    <Coche numero="1">
+	  <imagen ruta="../Imagenes/Corvette-Stingray2019.jpeg"/>
+	  <Nombre>Corvette Stingray Ed. 2019</Nombre>
+	  <Cilindrada>460CV</Cilindrada>
+	  <Admision>Gasolina V8</Admision>
+  </Coche>
+    <Coche numero="2">
+	  <imagen ruta="../Imagenes/gtr1.jpeg"/>
+	  <Nombre>Nissan GT-R</Nombre>
+	  <Cilindrada>570CV</Cilindrada>
+	  <Admision>Gasolina V6 BiTurbo</Admision>
+  </Coche>
+    <Coche numero="3">
+	  <imagen ruta="../Imagenes/amg1.jpeg"/>
+	  <Nombre>Mercedes AMG GT</Nombre>
+	  <Cilindrada>510CV</Cilindrada>
+	  <Admision>Gasolina V8 BiTurbo</Admision>
+  </Coche>
+</Nuestros_Coches>
