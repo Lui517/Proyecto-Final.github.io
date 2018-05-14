@@ -11,6 +11,18 @@
     color:#f44242;
     font-family: 'Walter Turncoat', cursive;
   }
+img {
+border: 5px solid #ccc;
+float: left;
+margin: 15px;
+-webkit-transition: margin 0.5s ease-out;
+-moz-transition: margin 0.5s ease-out;
+-ms-transition: margin 0.5s ease-out;
+transition: margin 0.5s ease-out;
+}
+img:hover {
+margin-top: 2px;
+}
 </style>
 </head>
 <body>
