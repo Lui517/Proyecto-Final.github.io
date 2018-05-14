@@ -8,9 +8,21 @@
 	  <Admision>Gasolina 0.9 TCe</Admision>
   </Coche>
   <Coche numero="2">
-	  <imagen ruta="../Imagenes/scirocco1.jpg"/>
+	  <imagen ruta="../Imagenes/scirocco2.jpeg"/>
 	  <Nombre>Volkswagen Scirocco</Nombre>
 	  <Cilindrada>180CV</Cilindrada>
 	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
+  </Coche>
+    <Coche numero="3">
+	  <imagen ruta="../Imagenes/Corvette-Stingray2019.jpeg"/>
+	  <Nombre>Corvette Stingray Ed. 2019</Nombre>
+	  <Cilindrada>460CV</Cilindrada>
+	  <Admision>Gasolina V8</Admision>
+  </Coche>
+    <Coche numero="4">
+	  <imagen ruta="../Imagenes/gtr1.jpeg"/>
+	  <Nombre>Nissan GT-R</Nombre>
+	  <Cilindrada>570CV</Cilindrada>
+	  <Admision>Gasolina V6 biturbo</Admision>
   </Coche>
 </Nuestros_Coches>
