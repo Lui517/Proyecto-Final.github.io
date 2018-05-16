@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
 <Nuestros_Coches>
   <Coche numero="1">
@@ -6,6 +6,7 @@
 	  <Nombre>Renault Clio</Nombre>
 	  <Cilindrada>90CV</Cilindrada>
 	  <Admision>Gasolina 0.9 TCe</Admision>
+	  <Precio>15€/Hora</Precio>
   </Coche>
   <Coche numero="2">
 	  <imagen ruta="../Imagenes/Scirocco2.jpeg"/>
@@ -30,5 +31,11 @@
 	  <Nombre>Renault Scenic</Nombre>
 	  <Cilindrada>110CV</Cilindrada>
 	  <Admision>Diesel 1.5 dCI</Admision>
+  </Coche>
+  <Coche numero="6">
+	  <imagen ruta="../Imagenes/astra.jpeg"/>
+	  <Nombre>Opel Astra</Nombre>
+	  <Cilindrada>105CV</Cilindrada>
+	  <Admision>Diesel 1.0 Turbo</Admision>
   </Coche>
 </Nuestros_Coches>

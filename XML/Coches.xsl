@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <xsl:template match="Nuestros_Coches">
 
@@ -11,18 +11,18 @@
     color:#f44242;
     font-family: 'Walter Turncoat', cursive;
   }
-img {
-border: 5px solid #ccc;
-float: left;
-margin: 15px;
--webkit-transition: margin 0.5s ease-out;
--moz-transition: margin 0.5s ease-out;
--ms-transition: margin 0.5s ease-out;
-transition: margin 0.5s ease-out;
-}
-img:hover {
-margin-top: 2px;
-}
+  img {
+    border: 5px solid #ccc;
+    float: left;
+    margin: 15px;
+    -webkit-transition: margin 0.5s ease-out;
+    -moz-transition: margin 0.5s ease-out;
+    -ms-transition: margin 0.5s ease-out;
+    transition: margin 0.5s ease-out;
+  }
+  img:hover {
+    margin-top: 2px;
+  }
 </style>
 </head>
 <body>
@@ -37,10 +37,11 @@ margin-top: 2px;
        </xsl:attribute>
      </xsl:element>
 </div>
-  <ul  style="float: left;">
+  <ul style="float: left;">
     <li><xsl:value-of select="Nombre"/></li>
     <li><xsl:value-of select="Cilindrada"/></li>
     <li><xsl:value-of select="Admision"/></li>
+    <li><xsl:value-of select="Precio"/></li>
   </ul>
 </div>
 </xsl:for-each>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
 <Nuestros_Coches>
   <Coche numero="1">
@@ -24,5 +24,17 @@
 	  <Nombre>Nissan GT-R</Nombre>
 	  <Cilindrada>570CV</Cilindrada>
 	  <Admision>Gasolina V6 biturbo</Admision>
+  </Coche>
+  <Coche numero="5">
+	  <imagen ruta="../Imagenes/KA 1.jpeg"/>
+	  <Nombre>Ford KA+1</Nombre>
+	  <Cilindrada>70CV</Cilindrada>
+	  <Admision>Diesel 1.19 Ti-VCT</Admision>
+  </Coche>
+    <Coche numero="6">
+	  <imagen ruta="../Imagenes/amg1.jpeg"/>
+	  <Nombre>Mercedes AMG GT</Nombre>
+	  <Cilindrada>510CV</Cilindrada>
+	  <Admision>Gasolina V8 BiTurbo</Admision>
   </Coche>
 </Nuestros_Coches>

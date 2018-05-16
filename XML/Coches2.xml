@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-15"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="Coches.xsl"?>
 <Nuestros_Coches>
     <Coche numero="1">
@@ -18,5 +18,23 @@
 	  <Nombre>Mercedes AMG GT</Nombre>
 	  <Cilindrada>510CV</Cilindrada>
 	  <Admision>Gasolina V8 BiTurbo</Admision>
+  </Coche>
+    <Coche numero="4">
+	  <imagen ruta="../Imagenes/ferrari-f12.jpeg"/>
+	  <Nombre>Ferrari F-12 Berlinetta</Nombre>
+	  <Cilindrada>740CV</Cilindrada>
+	  <Admision>Gasolina V12</Admision>
+  </Coche>
+    <Coche numero="5">
+	  <imagen ruta="../Imagenes/shelby.jpeg"/>
+	  <Nombre>Shelby Cobra</Nombre>
+	  <Cilindrada>600CV</Cilindrada>
+	  <Admision>Gasolina V8</Admision>
+  </Coche>
+  <Coche numero="6">
+	  <imagen ruta="../Imagenes/mazdamx5-miata.jpeg"/>
+	  <Nombre>Mazda MX-5 Miata</Nombre>
+	  <Cilindrada>160CV</Cilindrada>
+	  <Admision>Gasolina 2.0 SKYACTIV-G</Admision>
   </Coche>
 </Nuestros_Coches>
