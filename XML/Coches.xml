@@ -6,35 +6,41 @@
 	  <Nombre>Renault Clio</Nombre>
 	  <Cilindrada>90CV</Cilindrada>
 	  <Admision>Gasolina 0.9 TCe</Admision>
+	  <Precio>2€/Día</Precio>
   </Coche>
   <Coche numero="2">
 	  <imagen ruta="../Imagenes/Scirocco2.jpeg"/>
 	  <Nombre>Volkswagen Scirocco</Nombre>
 	  <Cilindrada>180CV</Cilindrada>
 	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
+	  <Precio>3€/Día</Precio>
   </Coche>
     <Coche numero="3">
 	  <imagen ruta="../Imagenes/Corvette-Stingray2019.jpeg"/>
 	  <Nombre>Corvette Stingray Ed. 2019</Nombre>
 	  <Cilindrada>460CV</Cilindrada>
 	  <Admision>Gasolina V8</Admision>
+	  <Precio>100€/Día</Precio>
   </Coche>
     <Coche numero="4">
 	  <imagen ruta="../Imagenes/gtr1.jpeg"/>
 	  <Nombre>Nissan GT-R</Nombre>
 	  <Cilindrada>570CV</Cilindrada>
 	  <Admision>Gasolina V6 biturbo</Admision>
+	  <Precio>200€/Día</Precio>
   </Coche>
   <Coche numero="5">
 	  <imagen ruta="../Imagenes/KA 1.jpeg"/>
 	  <Nombre>Ford KA+1</Nombre>
 	  <Cilindrada>70CV</Cilindrada>
 	  <Admision>Diesel 1.19 Ti-VCT</Admision>
+	  <Precio>1€/Día</Precio>
   </Coche>
     <Coche numero="6">
 	  <imagen ruta="../Imagenes/amg1.jpeg"/>
 	  <Nombre>Mercedes AMG GT</Nombre>
 	  <Cilindrada>510CV</Cilindrada>
 	  <Admision>Gasolina V8 BiTurbo</Admision>
+	  <Precio>250€/Día</Precio>
   </Coche>
 </Nuestros_Coches>

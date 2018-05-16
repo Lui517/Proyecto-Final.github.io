@@ -6,36 +6,41 @@
 	  <Nombre>Renault Clio</Nombre>
 	  <Cilindrada>90CV</Cilindrada>
 	  <Admision>Gasolina 0.9 TCe</Admision>
-	  <Precio>15€/Hora</Precio>
+	  <Precio>2€/Día</Precio>
   </Coche>
   <Coche numero="2">
 	  <imagen ruta="../Imagenes/Scirocco2.jpeg"/>
 	  <Nombre>Volkswagen Scirocco</Nombre>
 	  <Cilindrada>180CV</Cilindrada>
 	  <Admision>Gasolina 2.0 TSI Turbo</Admision>
+	  <Precio>3€/Día</Precio>
   </Coche>
   <Coche numero="3">
 	  <imagen ruta="../Imagenes/KA 1.jpeg"/>
 	  <Nombre>Ford KA+1</Nombre>
 	  <Cilindrada>70CV</Cilindrada>
 	  <Admision>Diesel 1.19 Ti-VCT</Admision>
+	  <Precio>1€/Día</Precio>
   </Coche>
   <Coche numero="4">
 	  <imagen ruta="../Imagenes/passat1.jpeg"/>
 	  <Nombre>Volkswagen Passat</Nombre>
 	  <Cilindrada>180CV</Cilindrada>
 	  <Admision>Diesel 2.0 TSI</Admision>
+	  <Precio>2€/Día</Precio>
   </Coche>
   <Coche numero="5">
 	  <imagen ruta="../Imagenes/scenic2.jpeg"/>
 	  <Nombre>Renault Scenic</Nombre>
 	  <Cilindrada>110CV</Cilindrada>
 	  <Admision>Diesel 1.5 dCI</Admision>
+	  <Precio>3€/Día</Precio>
   </Coche>
   <Coche numero="6">
 	  <imagen ruta="../Imagenes/astra.jpeg"/>
 	  <Nombre>Opel Astra</Nombre>
 	  <Cilindrada>105CV</Cilindrada>
 	  <Admision>Diesel 1.0 Turbo</Admision>
+	  <Precio>2€/Día</Precio>
   </Coche>
 </Nuestros_Coches>

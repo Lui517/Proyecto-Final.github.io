@@ -6,35 +6,41 @@
 	  <Nombre>Corvette Stingray Ed. 2019</Nombre>
 	  <Cilindrada>460CV</Cilindrada>
 	  <Admision>Gasolina V8</Admision>
+	  <Precio>100€/Día</Precio>
   </Coche>
     <Coche numero="2">
 	  <imagen ruta="../Imagenes/gtr1.jpeg"/>
 	  <Nombre>Nissan GT-R</Nombre>
 	  <Cilindrada>570CV</Cilindrada>
 	  <Admision>Gasolina V6 BiTurbo</Admision>
+	  <Precio>200€/Día</Precio>
   </Coche>
     <Coche numero="3">
 	  <imagen ruta="../Imagenes/amg1.jpeg"/>
 	  <Nombre>Mercedes AMG GT</Nombre>
 	  <Cilindrada>510CV</Cilindrada>
 	  <Admision>Gasolina V8 BiTurbo</Admision>
+	  <Precio>250€/Día</Precio>
   </Coche>
     <Coche numero="4">
 	  <imagen ruta="../Imagenes/ferrari-f12.jpeg"/>
 	  <Nombre>Ferrari F-12 Berlinetta</Nombre>
 	  <Cilindrada>740CV</Cilindrada>
 	  <Admision>Gasolina V12</Admision>
+	  <Precio>300€/Día</Precio>
   </Coche>
     <Coche numero="5">
 	  <imagen ruta="../Imagenes/shelby.jpeg"/>
 	  <Nombre>Shelby Cobra</Nombre>
 	  <Cilindrada>600CV</Cilindrada>
 	  <Admision>Gasolina V8</Admision>
+	  <Precio>500€/Día</Precio>
   </Coche>
   <Coche numero="6">
 	  <imagen ruta="../Imagenes/mazdamx5-miata.jpeg"/>
 	  <Nombre>Mazda MX-5 Miata</Nombre>
 	  <Cilindrada>160CV</Cilindrada>
 	  <Admision>Gasolina 2.0 SKYACTIV-G</Admision>
+	  <Precio>150€/Día</Precio>
   </Coche>
 </Nuestros_Coches>
