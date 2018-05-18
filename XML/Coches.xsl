@@ -26,7 +26,7 @@
 </style>
 </head>
 <body>
-<h1>Nuestros Coches</h1>
+<h1>¡Alquila un Coche!</h1>
 
 <xsl:for-each select="Coche">
 <div class="Coche" style="float: left; width: 300px;">
