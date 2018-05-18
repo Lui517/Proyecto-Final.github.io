@@ -23,20 +23,13 @@
 	  <Precio>1€/Día</Precio>
   </Coche>
   <Coche numero="4">
-	  <imagen ruta="../Imagenes/passat1.jpeg"/>
-	  <Nombre>Volkswagen Passat</Nombre>
-	  <Cilindrada>180CV</Cilindrada>
-	  <Admision>Diesel 2.0 TSI</Admision>
-	  <Precio>2€/Día</Precio>
-  </Coche>
-  <Coche numero="5">
 	  <imagen ruta="../Imagenes/scenic2.jpeg"/>
 	  <Nombre>Renault Scenic</Nombre>
 	  <Cilindrada>110CV</Cilindrada>
 	  <Admision>Diesel 1.5 dCI</Admision>
 	  <Precio>3€/Día</Precio>
   </Coche>
-  <Coche numero="6">
+  <Coche numero="5">
 	  <imagen ruta="../Imagenes/astra.jpeg"/>
 	  <Nombre>Opel Astra</Nombre>
 	  <Cilindrada>105CV</Cilindrada>

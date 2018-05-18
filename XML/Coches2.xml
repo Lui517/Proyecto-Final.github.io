@@ -29,14 +29,7 @@
 	  <Admision>Gasolina V12</Admision>
 	  <Precio>300€/Día</Precio>
   </Coche>
-    <Coche numero="5">
-	  <imagen ruta="../Imagenes/shelby.jpeg"/>
-	  <Nombre>Shelby Cobra</Nombre>
-	  <Cilindrada>600CV</Cilindrada>
-	  <Admision>Gasolina V8</Admision>
-	  <Precio>500€/Día</Precio>
-  </Coche>
-  <Coche numero="6">
+  <Coche numero="5">
 	  <imagen ruta="../Imagenes/mazdamx5-miata.jpeg"/>
 	  <Nombre>Mazda MX-5 Miata</Nombre>
 	  <Cilindrada>160CV</Cilindrada>
