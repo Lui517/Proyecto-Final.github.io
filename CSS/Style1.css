@@ -10,7 +10,7 @@ nav{
 	font-size: 35px;
 	font-family: 'Walter Turncoat', cursive;
 }
-article fieldset{
+article fieldset{ /* solo le vale al inicia sesion de mi cuenta*/
 	font-family: calibri;
 	font-size: 15px;
 	float: left;
@@ -42,8 +42,8 @@ iframe{
 	float: left;
 	margin-top: 120px;
 	margin-left: 400px;
-	border-spacing: 40px;
 }
+/*Esto es el Header,la barra de navegación*/
 #header {
 width:100%;
 font-family: 'Walter Turncoat', cursive;

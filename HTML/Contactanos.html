@@ -7,6 +7,42 @@
 	<link href="https://fonts.googleapis.com/css?family=Walter+Turncoat" rel="stylesheet">
 	<link rel="shortcut icon" href="../Imagenes/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="../Imagenes/favicon.ico" type="image/x-icon">
+	<style type="text/css">
+	input[type=text], select {
+	    width: 100%;
+	    padding: 12px 20px;
+	    margin: 8px 0;
+	    display: inline-block;
+	    border: 1px solid #ccc;
+	    border-radius: 4px;
+	    box-sizing: border-box;/*esto es para que no salgan las cajas del formulario y quede feo*/
+    }
+
+    input[type=submit] {
+	    width: 100%;
+	    background-color: #4CAF50;
+	    color: white;
+	    padding: 14px 20px;
+	    margin: 8px 0;
+	    border: none;
+	    border-radius: 4px;
+    }
+    input[type=reset] {
+	    width: 100%;
+	    background-color: #f44242;
+	    color: white;
+	    padding: 14px 20px;
+	    margin: 8px 0;
+	    border: none;
+	    border-radius: 4px;
+    }
+	input[type=submit]:hover {
+    	background-color: #45a049;
+	}
+	fieldset{
+		padding:20px;/*para que quede separado del borde el contenido*/
+	}
+	</style>
 </head>
 <body>
 <header>
@@ -29,7 +65,6 @@
 </header>
 <article>
 	  <fieldset class="form1">
-    <legend>¿Has Decidido Alquilar?,¡Ponte en Contacto con Nosotros!</legend>
     Nombre<br>
     <input type="text" name="nombre">
     <br>
@@ -62,6 +97,7 @@
     <p>*Desde RedWater te recomendamos que mires la <a href="./Normativa.html" style="text-decoration: none;">Normativa</a> para encontrar el concesionario mas cercano a ti</p><br>
     <input type="submit" value="Enviar">
     <input type="reset" value="Borrar">
+	</fieldset>
 </article>
 <footer>
 	<a href="https://www.instagram.com/?hl=es" style="text-decoration: none;" target="_blank" ><img src="../Imagenes/Instagram.png"></a>
